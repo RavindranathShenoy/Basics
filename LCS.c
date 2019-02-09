@@ -1,13 +1,3 @@
-
-
-#include <stdio.h>
-
-#include <stdlib.h>
-
-#include <string.h>
-
-
-
 /*
 
 Longest Common Subsequence Problem
@@ -40,7 +30,11 @@ LCS=3 for the pattern "abc"
 
 */
 
+#include <stdio.h>
 
+#include <stdlib.h>
+
+#include <string.h>
 
 
 
